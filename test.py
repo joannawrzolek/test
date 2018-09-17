@@ -8,3 +8,6 @@ for i in range(1, 13):
 
 if 'b' != 'a':
 	print 'it is working ;)'
+
+for x in range(0,5):
+    print '#%x' %x
